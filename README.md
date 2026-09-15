@@ -9,7 +9,7 @@ Live Demo
 Add your GitHub Pages link here:
 
 text
-https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/
+[https://github.com/pralhad-saw/mumbai-after-dark/](url)
 About the Project
 Mumbai is a city that never stops moving. This website represents the city’s changing rhythm throughout the evening:
 
@@ -90,7 +90,7 @@ Running Locally
 Clone the repository:
 
 bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
+git clone [(https://github.com/pralhad-saw/mumbai-after-dark/edit/main/README.md)](https://github.com/pralhad-saw/mumbai-after-dark/edit/main/README.md)
 Open the project folder:
 
 bash
@@ -120,8 +120,8 @@ Wait for GitHub to generate the website link.
 
 Your website will be available at:
 
-text
-https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/
+text[
+https://pralhad-saw.github.io/mumbai-after-dark/](url)
 Accessibility
 The website includes support for users who prefer reduced motion. When reduced motion is enabled on the device, the parallax movement is disabled while the content remains fully accessible.
 
